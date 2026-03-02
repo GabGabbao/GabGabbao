@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, me chamo Gabriela 👋
+## Sobre mim
+Estudante de Desenvolvimento de Sistemas, com interesse forte em computação, jogos e tecnologias que ampliam o que podemos criar. 
 
-<!--
-**GabGabbao/GabGabbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Cursando **Desenvolvimento de Sistemas** (SENAC-BA).
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Contato
+[![LinkedIn](www.linkedin.com/in/gabrielacarvalho1907)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielacarvalhosz061@gmail.com)
